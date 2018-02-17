@@ -1,10 +1,7 @@
 /* 
 *
-*	Created by Aakash, Peter, Ankit
+*	Created by Aakash Sunil, Peter Hudson, Ankit Prasad
 *
-*/
-
-/*
 *	
 *	This is a simple and basic implementation of generating a timetable for a single class 
 *	depending on the timing preferences entered by the lecturers.
